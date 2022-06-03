@@ -13,10 +13,6 @@
   "files": [
     "dist/"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ancashoria/graphql-kafka-subscriptions.git"
-  },
   "keywords": [
     "graphql",
     "kafka",
@@ -25,10 +21,6 @@
   ],
   "author": "Ancas Horia",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ancashoria/graphql-kafka-subscriptions/issues"
-  },
-  "homepage": "https://github.com/ancashoria/graphql-kafka-subscriptions#readme",
   "jest": {
     "roots": [
       "<rootDir>/src/test"
