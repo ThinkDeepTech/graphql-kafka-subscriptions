@@ -12,7 +12,7 @@
   },
   "files": [
     "dist/"
-  ],  
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ancashoria/graphql-kafka-subscriptions.git"
@@ -46,7 +46,7 @@
   "dependencies": {
     "@types/bunyan": "^1.8.6",
     "@types/node": "^13.13.2",
-    "bunyan": "1.8.12",
+    "bunyan": "^1.8.12",
     "dotenv": "^8.2.0",
     "graphql": "^14.0.0",
     "graphql-subscriptions": "^1.1.0",
@@ -58,6 +58,6 @@
     "@types/jest": "^25.2.1",
     "jest": "^25.4.0",
     "ts-jest": "^25.4.0",
-    "typescript": "^3.8.3"    
+    "typescript": "^3.8.3"
   }
 }
