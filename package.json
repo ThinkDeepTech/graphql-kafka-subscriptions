@@ -1,5 +1,5 @@
 {
-  "name": "graphql-kafka-subscriptions",
+  "name": "@thinkdeep/graphql-kafka-subscriptions",
   "version": "0.4.1",
   "description": "Apollo graphql subscription over Kafka protocol",
   "main": "dist/index.js",
